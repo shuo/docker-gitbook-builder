@@ -1,4 +1,4 @@
-# docker-gitbook-builder
+****# docker-gitbook-builder
 
 A Docker Image for building ebook with [Gitbook](https://github.com/GitbookIO/gitbook) and [Noto CJK Fonts](https://www.google.com/get/noto/).
 
@@ -54,3 +54,18 @@ RUN apt-get update && \
     apt-get install -y --no-install-recommends your-favorite-fonts && \
     rm -rf /var/lib/apt/lists/*
 ```
+
+## Acknowledge
+
+The project is sponsored under **Productivity Side Project** plan of [ECOWORK Inc.](www.ecowork.com)
+
+[ECOWORK](www.ecowork.com) is a Taiwan-based software and service company and is also hiring now:
+
+* **Cloud Architect**, Cloud Arch Team
+* **Cloud Platform Engineer**, Cloud Arch Team
+* **iOS/Android Engineer,** Mobile Team
+* **Ruby/Go/Node Engineer**, Application Team
+* **Operation Engineer**, Service Team
+
+The working location of the above opportunities is Taipei, Taiwan. Resume and inquiry are welcome to resume@ecoworkinc.com.
+
