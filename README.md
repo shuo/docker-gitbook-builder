@@ -10,7 +10,7 @@ Read the official documentation [GitbookIO/gitbook](https://github.com/GitbookIO
 
 ```bash
 # run
-docker run --name="gitbook-builder" -v "$PWD:/home" shuoshuo/gitbook-builder
+docker run -ti --name="gitbook-builder" -v "$PWD:/home" shuoshuo/gitbook-builder /bin/bash
 ```
 
 ## Integrate with Gitlab CI
