@@ -1,4 +1,4 @@
-****# docker-gitbook-builder
+# docker-gitbook-builder
 
 A Docker Image for building ebook with [Gitbook](https://github.com/GitbookIO/gitbook) and [Noto CJK Fonts](https://www.google.com/get/noto/).
 
