@@ -57,9 +57,9 @@ RUN apt-get update && \
 
 ## Acknowledge
 
-The project is sponsored under **Productivity Side Project** plan of [ECOWORK Inc.](www.ecowork.com)
+The project is sponsored under **Productivity Side Project** plan of [ECOWORK Inc.](http://www.ecowork.com/)
 
-[ECOWORK](www.ecowork.com) is a Taiwan-based software and service company and is also hiring now:
+[ECOWORK](http://www.ecowork.com/) is a Taiwan-based software and service company and is also hiring now:
 
 * **Cloud Architect**, Cloud Arch Team
 * **Cloud Platform Engineer**, Cloud Arch Team
